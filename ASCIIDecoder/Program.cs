@@ -6,7 +6,10 @@ namespace ASCIIDecoder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string a = Console.ReadLine();
+            int numchar;
+            bool f1 = int.TryParse(a, out numchar);
+            Console.WriteLine((char)numchar);
         }
     }
 }

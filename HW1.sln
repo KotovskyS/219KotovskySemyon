@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIIDecoder", "ASCIIDecoder\ASCIIDecoder.csproj", "{47D488DE-2A98-4CB3-A426-3F30312CC5CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task04", "Task04\Task04.csproj", "{38154D99-C53A-4EF2-8DD9-9221222B1755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task05", "Task05\Task05.csproj", "{6CDDDDFE-6521-4053-A896-918021F8450F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{47D488DE-2A98-4CB3-A426-3F30312CC5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47D488DE-2A98-4CB3-A426-3F30312CC5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47D488DE-2A98-4CB3-A426-3F30312CC5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38154D99-C53A-4EF2-8DD9-9221222B1755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38154D99-C53A-4EF2-8DD9-9221222B1755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38154D99-C53A-4EF2-8DD9-9221222B1755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38154D99-C53A-4EF2-8DD9-9221222B1755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDDDDFE-6521-4053-A896-918021F8450F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDDDDFE-6521-4053-A896-918021F8450F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDDDDFE-6521-4053-A896-918021F8450F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDDDDFE-6521-4053-A896-918021F8450F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
